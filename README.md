@@ -4,6 +4,7 @@ The objective of this project is to find the balance spot between loan approval 
 
 ## Dataset used
 - <a href="https://github.com/huy20040121-svg/Default-risk-analysis/blob/main/Credit%20Risk%20Dataset.csv">Dataset</a>
+
 ## Questions (KPIs)
 -Overall default rate  
 
@@ -20,11 +21,14 @@ The objective of this project is to find the balance spot between loan approval 
 -Are borrowers with less than 2 years of employment more likely to default?
 
 -Dashboard Interaction- <a href="https://github.com/huy20040121-svg/Default-risk-analysis/blob/main/Nova_bank_analysis_Dashboard.pbix">Dataset</a>
+
 ## Process
 -Created pivot tables according to the questions asked.
 -Merge all pivot tables into one dashboard and make some insights from what we have in the dashboard.
+
 ## Dashboard
 <img width="1404" height="781" alt="nova_bank_screenshot" src="https://github.com/user-attachments/assets/7492e916-50b4-4d49-97aa-4d8f832208f4" />
+
 ## Project Insight
 -The Loan Intent with the Highest Default rate is Consolidation Loan(29%).
 -As DTI is increase, the Default rate increase significantly.
@@ -32,5 +36,6 @@ The objective of this project is to find the balance spot between loan approval 
 -The Loan Grade with Highest Default rate is Grade G (29%)
 -People who work less 2 years tend to have defaulted status (31.85%)
 -The Default Loan have more Loan Amount than the non-default one.
+
 ## Final Conclusion:
 Nova'Bank Default Rate is about 21%, which is considered high for a bank, and the Default Loan have more Loan Amount than Non-Default one, so it is urgent for Nova bank to make a risk control plan. Since the default rate is rising dramatically when the debt-to-income ratio above 40%, so i reccomend DTI Cutoff is 40%. The Bank should consider when make a loan for Consolidation purpose because it has highest default rate
