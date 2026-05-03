@@ -21,17 +21,16 @@ The objective of this project is to find the balance spot between loan approval 
 
 -Dashboard Interaction- <a href="https://github.com/huy20040121-svg/Default-risk-analysis/blob/main/Nova_bank_analysis_Dashboard.pbix">Dataset</a>
 ## Process
--Verify data for any missing values and anomalies, and sort out the same.
--Made sure data is consistent and clean with respect to data type, data format and values used.
 -Created pivot tables according to the questions asked.
--Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+-Merge all pivot tables into one dashboard and make some insights from what we have in the dashboard.
 ## Dashboard
 <img width="1404" height="781" alt="nova_bank_screenshot" src="https://github.com/user-attachments/assets/7492e916-50b4-4d49-97aa-4d8f832208f4" />
-### Project Insight
--Women customers are more likely to buy products compared to men (~65%).
--The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
--The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
--The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
--More than 90% of the products delivered
+## Project Insight
+-The Loan Intent with the Highest Default rate is Consolidation Loan(29%).
+-As DTI is increase, the Default rate increase significantly.
+-Default Rate does not differ significantly among each different employment type 
+-The Loan Grade with Highest Default rate is Grade G (29%)
+-People who work less 2 years tend to have defaulted status (31.85%)
+-The Default Loan have more Loan Amount than the non-default one.
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+Nova'Bank Default Rate is about 21%, which is considered high for a bank, and the Default Loan have more Loan Amount than Non-Default one, so it is urgent for Nova bank to make a risk control plan. Since the default rate is rising dramatically when the debt-to-income ratio above 40%, so i reccomend DTI Cutoff is 40%. The Bank should consider when make a loan for Consolidation purpose because it has highest default rate
