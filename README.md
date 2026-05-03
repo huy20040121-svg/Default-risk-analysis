@@ -19,14 +19,14 @@ The objective of this project is to find the balance spot between loan approval 
 
 -Are borrowers with less than 2 years of employment more likely to default?
 
--Dashboard Interaction- <a href="https://github.com/huy20040121-svg/Default-risk-analysis/blob/main/creditcroe.pbix">Dataset</a>
+-Dashboard Interaction- <a href="https://github.com/huy20040121-svg/Default-risk-analysis/blob/main/Nova_bank_analysis_Dashboard.pbix">Dataset</a>
 ## Process
 -Verify data for any missing values and anomalies, and sort out the same.
 -Made sure data is consistent and clean with respect to data type, data format and values used.
 -Created pivot tables according to the questions asked.
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-<img width="1399" height="789" alt="screen-shot" src="https://github.com/user-attachments/assets/e401faa2-6a15-4f63-bdf0-b68917c0668c" />
+<img width="1404" height="781" alt="nova_bank_screenshot" src="https://github.com/user-attachments/assets/7492e916-50b4-4d49-97aa-4d8f832208f4" />
 ### Project Insight
 -Women customers are more likely to buy products compared to men (~65%).
 -The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
