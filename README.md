@@ -31,10 +31,15 @@ The objective of this project is to find the balance spot between loan approval 
 
 ## Project Insight
 -The Loan Intent with the Highest Default rate is Consolidation Loan(29%).
+
 -As DTI is increase, the Default rate increase significantly.
+
 -Default Rate does not differ significantly among each different employment type 
+
 -The Loan Grade with Highest Default rate is Grade G (29%)
+
 -People who work less 2 years tend to have defaulted status (31.85%)
+
 -The Default Loan have more Loan Amount than the non-default one.
 
 ## Final Conclusion:
