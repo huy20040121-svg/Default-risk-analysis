@@ -43,4 +43,6 @@ The objective of this project is to find the balance spot between loan approval 
 -The Default Loan have more Loan Amount than the non-default one.
 
 ## Final Conclusion:
-Nova'Bank Default Rate is about 21%, which is considered high for a bank, and the Default Loan have more Loan Amount than Non-Default one, so it is urgent for Nova bank to make a risk control plan. Since the default rate is rising dramatically when the debt-to-income ratio above 40%, so i reccomend DTI Cutoff is 40%. The Bank should consider when make a loan for Consolidation purpose because it has highest default rate
+Nova Bank’s default rate is approximately 21%, which is considered high for a bank. Additionally, defaulted loans tend to have larger loan amounts compared to non-defaulted ones. Therefore, it is urgent for Nova Bank to implement a comprehensive risk control plan.
+To reduce the default rate to a safer level, the bank should apply stricter due diligence for borrowers seeking loans for debt consolidation and for those with less than two years of work experience, as these groups exhibit the highest default rates.
+Furthermore, since the default rate increases significantly when the debt-to-income (DTI) ratio exceeds 40%, it is recommended that Nova Bank set a DTI cutoff at 40%.  
